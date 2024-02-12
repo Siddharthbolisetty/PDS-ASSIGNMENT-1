@@ -1,0 +1,13 @@
+
+
+Correlation between Weight and Height:
+0.5715249798799154
+
+Correlation between Weight and Grip Strength:
+0.03280675436900745
+
+Correlation between Weight and Grip Strength:
+0.03280675436900745
+
+Correlation between Weight and Height:
+0.5715249798799154
